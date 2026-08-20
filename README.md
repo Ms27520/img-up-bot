@@ -412,10 +412,10 @@ ADMIN_USERS=123456789,987654321
 
 如需对本项目进行二次修改或分发，请遵循以下要求：
 1. 保留原项目的版权信息
-2. 在文档中标明原项目地址：https://github.com/uki0xc/img-up-bot
+2. 在文档中标明原项目地址：https://github.com/Reukix/img-up-bot
 3. 标明修改内容与原作者信息
 
-作者：[@uki0x](https://github.com/uki0xc)  
+作者：[@uki0x](https://github.com/Reukix)  
 邮箱：a@vki.im  
-Telegram：[@uki0x](https://t.me/uki0x)
+Telegram：[@uki0x](https://t.me/Reukix)
 
